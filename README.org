@@ -1,0 +1,78 @@
+#+title: Readme
+* Challenge 1 uncover the unseen [easy]
+
+While on vacation, tucked away in a quiet tent, I found myself slipping /once again/ into one of my rabbit holes. With little more than time, curiosity, and a faint signal, I had a choice: pour a drink… or pour my mind into creating something.
+As it turns out, inspiration came as a blend of both.
+
+Where Steganography has long fascinated me, I never found the right excuse. Until now.
+
+Therefore I prensent this to my students at /friday 2025-07-11 07:30 UTC/ and the challenge will close /friday 2025-08-01 10:00 UTC/
+
+Steganography is as old as espionage itself — from wax tablets hiding messages beneath new writing to microdots and invisible ink. In the digital age, bits are your canvas and silence your medium.
+
+Decrypt the ordinary.
+
+#+begin_quote
+May your tools be sharp and your eyes sharper.
+#+end_quote
+
+Good luck.
+
+** tl:dr
+Find a flag with your steganography skills.
+example:
+#+begin_src bash
+flag{bitterbal_or_l03MP1A}
+#+end_src
+
+*NOTE*: for non dutch speakers all elements can be OSINT.
+
+If you want to let me know you found the flag, please contact me by any way you find convenient.
+
+
+** 🕵️‍♂️ Getting Started
+
+Steganography isn't just about hiding data. It's about doing so in plain sight. Your challenge lies within this subtle art.
+
+It might be burried in pixels, obfuscated in metadata, whispered in LSB, cunningly split accross formats, or masked behind misdirection.
+
+This is not a *brute-force* puzzle — it's a test of your /observation, creativity, and understanding/ of how data can be woven into the mundane.
+
+** 📦The Package
+Inside this repository, you'll find a file (or three) that are definitely, totally, 100% innocent:
+#+begin_src bash
+.
+├── b45b7c8cb8e9830c3f89f684b54fbc94-challenge.png
+├── README.org
+
+#+end_src
+
+** 🧠 Skills You Might Need
+
+- Image manipulation;
+- Hex editors and byte-level inspection;
+- Understanding of file signatures, headers, and formats;
+- Cryptographic hunches and base64 decoding;
+- A sixth sense for legacy tools still doing excellent work… perhaps something from the suite of old-school graphical steg tools.
+
+** 🕵️ Hints (Optional... but are they?)
+
+You may request hints.
+But beware, /every hint costs you/ *bragging rights*.
+*NOTE:* till the flag isn't found hints will be given on the hackfridays hosted by NOVI.
+
+** 🏆 Flag Format
+
+When you find the hidden message, you’ll uncover the flag.
+
+Example: flag{bitterbal_of_l03MP1A}
+#+begin_quote
+Keep your mind flexible. Flags don’t always speak English — sometimes, they speak l33t.
+#+end_quote
+
+** 📜 Rules of Engagement
+
+1. No *brute-forcing* unless explicitly told.
+2. If it feels too obvious, it probably is.
+3. Share your techniques after the challenge closes /friday 2025-08-01 10:00 UTC/ — open-source knowledge, FTW.
+4. Enjoy the rabbit hole. 🕳️🐇
