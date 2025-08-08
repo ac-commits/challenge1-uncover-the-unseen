@@ -29,6 +29,8 @@ flag{bitterbal_or_l03MP1A}
 
 If you want to let me know you found the flag, please contact me by any way you find convenient.
 
+** Hint 1
+use [[https://archive.org/download/stegosuite][stegosuite]] as your steganography knife.
 
 ** 🕵️‍♂️ Getting Started
 
